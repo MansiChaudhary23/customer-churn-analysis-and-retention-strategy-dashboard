@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** built using the **Telco Customer Churn Dat
 
 ##  Dashboard Preview
 
-![Customer Churn Dashboard]([images/customer-churn-dashboard.png](https://github.com/MansiChaudhary23/customer-churn-analysis-and-retention-strategy-dashboard/blob/main/customer%20churn%20dashboard.pbix))
+![Customer Churn Dashboard](["C:\Users\Hp\Pictures\Screenshots\snapshot customer churn dashboard.png"])
 
 ---
 
