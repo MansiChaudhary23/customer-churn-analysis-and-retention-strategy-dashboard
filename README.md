@@ -2,12 +2,6 @@
 
 An interactive **Power BI dashboard** built using the **Telco Customer Churn Dataset** to analyze customer behavior, identify churn patterns, and provide actionable insights for improving customer retention.
 
----
-##  Dashboard Preview
-
-![Dashboard Preview](https://github.com/MansiChaudhary23/customer-churn-analysis-and-retention-strategy-dashboard/blob/main/snapshot%20customer%20churn%20dashboard.png)
-
----
 
 ##  Project Overview
 
@@ -122,5 +116,11 @@ Customer-Churn-Dashboard/
  B.Tech Computer Science Student
 
  Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence.
+
+---
+---
+##  Dashboard Preview
+
+![Dashboard Preview](https://github.com/MansiChaudhary23/customer-churn-analysis-and-retention-strategy-dashboard/blob/main/customer%20churn%20snapshot.png)
 
 ---
