@@ -5,7 +5,7 @@ An interactive **Power BI dashboard** built using the **Telco Customer Churn Dat
 ---
 ##  Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/the-mansi-goel/Ski-dashboard/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/MansiChaudhary23/customer-churn-analysis-and-retention-strategy-dashboard/blob/main/snapshot%20customer%20churn%20dashboard.png)
 
 ---
 
